@@ -1,14 +1,14 @@
 # Weather App 🌤️
 
-A modern weather application built with React that provides real-time weather information based on user location or city search.
+Aplikasi cuaca modern yang dibuat dengan React yang menyediakan informasi cuaca real-time berdasarkan lokasi pengguna atau pencarian kota.
 
-## Features
-- Auto-detect user location (Geolocation API)
-- Search weather by city name
-- Reverse geocoding to display real city name
-- Real-time weather data
-- Loading skeleton & error handling
-- Fully responsive UI
+## Fitur
+- Deteksi lokasi pengguna otomatis (Geolocation API)
+- Cari cuaca berdasarkan nama kota
+- Geocoding terbalik untuk menampilkan nama kota sebenarnya
+- Data cuaca real-time
+- Skelet pemuatan & penanganan kesalahan
+- UI yang sepenuhnya responsif
 
 ## Tech Stack
 - React
